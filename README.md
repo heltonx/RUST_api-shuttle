@@ -12,7 +12,7 @@ cargo shuttle init
 
 choose an unique name for the project
 
-choose where to create the project
+enter where to create the project (replace the files main and toml)
 
 ![image](https://github.com/user-attachments/assets/8ad5dcae-f144-4771-a28e-4960f97c9f5c)
 
